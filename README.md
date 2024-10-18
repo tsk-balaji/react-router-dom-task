@@ -33,3 +33,16 @@ When clicked on the Listed items on NavBar, the respective courses will be rende
 <div style="background-color: black; padding: 10px; border-radius: 5px;">
 ![FSD](./src/screenshots/FSD.png)
 </div>
+
+---
+
+When clicked on the **Know More** button in the course card, an alert will be shown in the screen. Just making it interactive.
+
+&nbsp;
+
+Note: This is not in scope and has been added as
+an extra feature. And can be modified to redirect to the dedicated page if made changes made in future.
+
+&nbsp;
+
+![Alert](./src/screenshots/Alert.png)
