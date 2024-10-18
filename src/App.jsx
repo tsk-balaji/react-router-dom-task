@@ -9,7 +9,7 @@ function App() {
       <NavBar />
       <Routes>
         <Route path="/" element={<Navigate to="/All" />} />
-        <Route path="/:category" element={<Courses />}></Route>
+        <Route path="/:category" element={<Courses />}></Route> 
       </Routes>
     </div>
   );
