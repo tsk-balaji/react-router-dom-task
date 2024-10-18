@@ -12,7 +12,10 @@ export default function NavBar() {
   return (
     <nav className="navbar navbar-expand-lg bg-body-tertiary justify-content-center mt-4">
       <div className="container-fluid justify-content-center">
-        <ul className="navbar-nav">
+        <ul
+          className="navbar-nav"
+          style={{ boxShadow: "0px 3px 3px rgba(0, 0, 4, 0.5)" }}
+        >
           <li className="nav-item">
             <Link
               className={`nav-link ${activeLink === "/All" ? "active" : ""}`}

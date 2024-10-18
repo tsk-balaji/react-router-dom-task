@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 export default function ProductCard({ data = {} }) {
   return (
     <div className="col-md-4 mb-5 ">
-      <div className="card h-100">
+      <div className="card h-100" style={{ border: "1px solid grey" }}>
         <div
           className="badge bg-dark text-white position-absolute"
           style={{ top: "0.5rem", right: "0.5rem" }}
