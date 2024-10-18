@@ -1,0 +1,45 @@
+.navBar {
+  justify-content: center;
+}
+
+/* NavBar.css */
+.navbar-nav {
+  display: flex;
+  gap: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.nav-link {
+  color: lightgray; /* Color for inactive items */
+}
+
+.nav-link.active,
+.navbar-brand.active {
+  color: black; /* Color for the active item */
+  font-weight: bold;
+}
+
+.courseName {
+  align-content: center;
+  padding: 10px 10px 10px 10px;
+  font-weight: bold;
+  border-bottom-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  box-shadow: none;
+}
+
+.lang {
+  color: gray;
+  padding-left: 10px;
+  font-size: x-small;
+  font-weight: 600;
+}
+
+.langArr {
+  padding-left: 10px;
+  font-size: smaller;
+}
+
+.knwMore {
+  margin: 10px;
+}

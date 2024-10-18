@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "courseName": "Data Engineering Course with Bigdata and Hadoop",
+      "category": "Data Science",
+      "image": "https://static.guvi.in/blog/zenThumbnailNew/data-engineering.webp",
+      "lang": ["English"]
+    },
+    {
+      "id": 2,
+      "courseName": "AutoCAD Course Mechanical Engineers",
+      "category": "AutoCAD",
+      "image": "https://static.guvi.in/blog/zenThumbnailNew/cad-mechanical.webp",
+      "lang": ["English", "Tamil"]
+    },
+    {
+      "id": 3,
+      "courseName": "AutoCAD Course for Civil Engineers",
+      "category": "AutoCAD",
+      "image": "https://static.guvi.in/blog/zenThumbnailNew/cad-civil.webp",
+      "lang": ["English", "Tamil"]
+    },
+    {
+      "id": 4,
+      "courseName": "Java Full Stack Development",
+      "category": "Full Stack",
+      "image": "https://static.guvi.in/blog/zenThumbnailNew/java-fsd.webp",
+      "lang": ["English", "Tamil"]
+    },
+    {
+      "id": 5,
+      "courseName": "MERN Full Stack Development",
+      "category": "Full Stack",
+      "image": "https://static.guvi.in/blog/zenThumbnailNew/mern-fsd.webp",
+      "lang": ["English", "Tamil"]
+    },
+    {
+      "id": 6,
+      "courseName": "Data Science Course",
+      "category": "Data Science",
+      "image": "https://static.guvi.in/blog/zenThumbnailNew/data-science.webp",
+      "lang": ["English", "Tamil"]
+    },
+    {
+      "id": 7,
+      "courseName": "Automation testing Course with Java",
+      "category": "QA",
+      "image": "https://static.guvi.in/blog/zenThumbnailNew/java-at.webp",
+      "lang": ["English", "Tamil"]
+    },
+    {
+      "id": 8,
+      "courseName": "Automation testing Course with Python",
+      "category": "QA",
+      "image": "https://static.guvi.in/blog/zenThumbnailNew/python-at.webp",
+      "lang": ["English", "Tamil"]
+    },
+    {
+      "id": 9,
+      "courseName": "UI/UX Design course",
+      "category": "UIorUX",
+      "image": "https://static.guvi.in/blog/zenThumbnailNew/ui-ux.webp",
+      "lang": ["English", "Tamil"]
+    }
+  ]
+}
