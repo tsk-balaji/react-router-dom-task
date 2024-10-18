@@ -1,2 +1,3 @@
-# react-router-dom-task
-React-Router-Task
+# React-Shopping-Cart
+
+This repository is for React Vite Project for Shopping cart.

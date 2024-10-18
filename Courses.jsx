@@ -6,7 +6,7 @@ export default function Courses() {
   const params = useParams();
   const [courses, setCourses] = useState([]);
   useLayoutEffect(() => {
-    fetch("http://localhost:5174/courses.json")
+    fetch("/courses.json")
       .then((response) => response.json())
       .then((result) => {
         if (result.data.length > 0) {
